@@ -1,0 +1,9 @@
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\bin\Debug\netstandard2.0\MLTools.deps.json
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\bin\Debug\netstandard2.0\MLTools.dll
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\obj\Debug\netstandard2.0\MLTools.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\obj\Debug\netstandard2.0\MLTools.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\obj\Debug\netstandard2.0\MLTools.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\obj\Debug\netstandard2.0\MLTools.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\bin\Debug\netstandard2.0\MLTools.pdb
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\obj\Debug\netstandard2.0\MLTools.dll
+C:\Users\Jakub\source\repos\Inżynierka\MLTools\obj\Debug\netstandard2.0\MLTools.pdb
