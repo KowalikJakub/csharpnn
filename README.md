@@ -1,1 +1,1 @@
-csharpnn
+# A C# neural network implementation
